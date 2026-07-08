@@ -10,7 +10,7 @@ Diego Gomes Machado
 
 Vinicius Raimundo Pires
 
-# Arquivos:
+# Arquivos do trabalho 1:
 
 Análise de curva de PLD e Cargas.ipynb - **Contém o relatório das análises mais pertinentes realizadas de forma organizada.**
 
@@ -24,3 +24,8 @@ T1 - Machine Learning.pdf - **Apresentação das análises em forma de seminári
 
 env.yml - **Ambiente conda contendo as bibliotecas usadas.**
 
+# Arquivos do trabalho 2:
+
+T2 Note.ipynb - **Contém o relatório das análises mais pertinentes realizadas de forma organizada.**
+
+env.yml - **Ambiente conda contendo as bibliotecas usadas.**
